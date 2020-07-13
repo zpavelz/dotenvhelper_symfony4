@@ -1,6 +1,6 @@
 # DotEnv helper (Symfony 4+)
 Put into src/Helper folder
-#Example:
+# Example:
 
 Env file data: 
 SOME_ENV_KEY_NAME='test string'
